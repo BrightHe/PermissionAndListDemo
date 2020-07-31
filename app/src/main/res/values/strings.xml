@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PermissionAndListDemo</string>
+    <string name="string_toast_info">您拒绝了所申请的权限，暂时无法正常使用！</string>
+    <string name="string_toast_input">输入不能为空！</string>
+    <string name="string_name">姓名：</string>
+    <string name="string_phone">电话：</string>
+    <string name="string_add_contact">添加联系人</string>
+    <string name="string_add_contact_cancel">您已取消添加联系人</string>
+    <string name="string_add_contact_name">请输入联系人姓名</string>
+    <string name="string_add_contact_phone">请输入联系人电话</string>
+    <string name="string_ok">确认</string>
+    <string name="string_cancel">取消</string>
+    <string name="string_empty_contact">通讯录联系人列表为空</string>
+    <string name="string_update_contact" translatable="false">修改联系人</string>
+
+</resources>
